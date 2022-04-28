@@ -15,4 +15,4 @@ Windows :
  4 - Run "start.bat" With Run as Administartor
  Unix-based (Linux&Mac) :
   1 - Open Terminal At The "Unix (Linux&Mac)" Folder
-  2 - Use This Command : <script>$ chmod +x install.sh</script>
+  2 - Use This Command : <html><script>$ chmod +x install.sh</script></html>
