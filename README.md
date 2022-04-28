@@ -6,6 +6,7 @@ The LoadMe Is a Cryptography Tool - Enjoy From It and Wait For Updates :D
 2 - MorseCode Encode  <br>
 3 - Base64 Decode  <br>
 4 - MorseCode Decode  <br>
+5 - String Reverser (Soon) <br>
 
 # Install
 ### Windows : 
